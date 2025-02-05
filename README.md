@@ -3,11 +3,11 @@
 <p align="center">
   💻 Clinical Data Manager | Rave, Medrio, Veeva CDB 
   <br>
-  🖥️ Programming|R, SQL, CQL, Python, SAS, STATA  
+  🖥️ Programming | R, SQL, CQL, Python, SAS, STATA  
   <br>
-  📊 Data Visualization|RShiny, Excel, Power BI
+  📊 Data Visualization | RShiny, Excel, Power BI
   <br>
-  🔬 ETL and Warehousing|Apache Airflow, AWS 
+  🔬 ETL and Warehousing | Apache Airflow, AWS 
 </p>
 
 ---
