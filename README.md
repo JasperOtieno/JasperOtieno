@@ -1,4 +1,49 @@
- 👋Hi, I'm Jasper!
+<h1 align="center">👋 Hi, I'm Jasper!</h1>
 
-**A results-driven and detail-oriented Data Manager with over five (5) years of experience in clinical and non-clinical data management and a will-to-learn attitude. I'm a Data Science enthusiast with working experience STATA, R and SAS programming and CQL/SQL query languages, and base knowledge of Python. Possess intermediate data visualization skills using RShiny and Excel and basic knowledge of Power BI and Spotfire visualization tools. Extensive experience with Clinical Data Management Systems (CDMS) such as Rave Medidata, Medrio, and Veeva CDB. Skilled in User Acceptance Testing (UAT), EDC build, data reconciliation, query management, and external data integration into CDB, creation of review/validation listings in CDB and managing and ETL pipeline. Adept at developing/drafting work instructions and ensuring data integrity across studies. Passionate about leveraging data to drive insights, with personal projects in data wrangling and visualization across diverse domains. Strong background in regulatory compliance (GCP, CDISC, CDASH, SDTM) and ensuring data integrity. Holds a degree in Chemistry with a strong analytical foundation.**
+<p align="center">
+  💻 <strong>Clinical Data Manager | Rave, Medrio, Veeva CDBr</strong>  
+  <br>
+  📊 <strong>Programming|R, SQL, CQL, Python, SAS, STATA</strong>  
+  <br>
+  📊 <strong>Data Visualization|RShiny, Excel, Power BI</strong>  
+  <br>
+  🔬 <strong>ETL and Warehousing|Apache Airflow, AWS</strong>  
+</p>
+
+---
+
+### 🚀 **About Me**
+- 💻 Data Manager with 5+ years experience in Clinical and non-clinical studies
+- 🧭 Results-driven and detail oriented with a with a will-to-learn attitude
+- 🏥 Passionate about **transforming clinical data into actionable insights**.  
+- 📊 Experienced in **data visualization, wrangling, and R Shiny dashboards**.  
+- ⚡ Skilled in **Rave, Medrio, Veeva CDB for clinical data management**.  
+- 🔍 Always exploring **new technologies in healthcare data management**.  
+
+---
+
+### 📈 **Projects**
+📊 **[Data Visualization in R Shiny](https://github.com/your-project-link)**  
+🔍 **[Clinical Data Cleaning in R](https://github.com/your-project-link)**  
+📂 **[ETL Pipeline for Healthcare Data](https://github.com/your-project-link)**  
+
+---
+
+### 🛠 **Tech Stack**
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-004B87?logo=sas&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-0082C9?logo=r&logoColor=white)
+![Veeva CDB](https://img.shields.io/badge/Veeva_CDB-F47B20?logo=veeva&logoColor=white)
+
+---
+
+### 📫 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jasper-Otieno)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/JasperOtieno)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaotie@gmail.com)  
+
+---
+
 
