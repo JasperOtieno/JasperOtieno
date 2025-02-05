@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jasper!</h1>
+<h5 align="center">👋 Hi, I'm Jasper!</h5>
 
 <p align="center">
   💻 <strong>Clinical Data Manager | Rave, Medrio, Veeva CDBr</strong>  
@@ -23,9 +23,8 @@
 ---
 
 ### 📈 **Projects**
-📊 **[Data Visualization in R Shiny](https://github.com/your-project-link)**  
-🔍 **[Clinical Data Cleaning in R](https://github.com/your-project-link)**  
-📂 **[ETL Pipeline for Healthcare Data](https://github.com/your-project-link)**  
+📊 **[Data Visualization in R Shiny](https://jasper-otieno.shinyapps.io/Visuals_Dashboard/)**  
+🔍 **[Clinical Data Cleaning in R](https://github.com/JasperOtieno/Wrangling_With_R)**  
 
 ---
 
@@ -34,9 +33,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-004B87?logo=sas&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-0082C9?logo=r&logoColor=white)
 ![Veeva CDB](https://img.shields.io/badge/Veeva_CDB-F47B20?logo=veeva&logoColor=white)
-
 ---
 
 ### 📫 **Let's Connect**
