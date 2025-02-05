@@ -20,8 +20,8 @@
 - 🔍 Always exploring **new technologies in healthcare data management**.  
 ---
 #### 📈 **Projects**
-📊 **[Data Visualization in R Shiny](https://jasper-otieno.shinyapps.io/Visuals_Dashboard/)**  
-🔍 **[Clinical Data Cleaning in R](https://github.com/JasperOtieno/Wrangling_With_R)**  
+📊 [Data Visualization in R Shiny](https://jasper-otieno.shinyapps.io/Visuals_Dashboard/) 
+🔍 [Clinical Data Cleaning in R](https://github.com/JasperOtieno/Wrangling_With_R) 
 ---
 #### 🛠 **Tech Stack**
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
