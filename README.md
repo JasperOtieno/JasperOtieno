@@ -3,7 +3,7 @@
 <p align="center">
   💻 Clinical Data Manager | Rave, Medrio, Veeva CDB 
   <br>
-  📊 Programming|R, SQL, CQL, Python, SAS, STATA  
+  🖥️ Programming|R, SQL, CQL, Python, SAS, STATA  
   <br>
   📊 Data Visualization|RShiny, Excel, Power BI
   <br>
