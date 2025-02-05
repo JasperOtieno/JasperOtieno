@@ -9,7 +9,6 @@
   <br>
   🔬 ETL and Warehousing|Apache Airflow, AWS 
 </p>
-
 ---
 #### 🚀 **About Me**
 - 💻 Data Manager with 5+ years experience in Clinical and non-clinical studies
@@ -20,7 +19,8 @@
 - 🔍 Always exploring **new technologies in healthcare data management**.  
 ---
 #### 📈 **Projects**
-📊 [Data Visualization in R Shiny](https://jasper-otieno.shinyapps.io/Visuals_Dashboard/) 
+📊 [Data Visualization in R Shiny](https://jasper-otieno.shinyapps.io/Visuals_Dashboard/)
+<br>
 🔍 [Clinical Data Cleaning in R](https://github.com/JasperOtieno/Wrangling_With_R) 
 ---
 #### 🛠 **Tech Stack**
