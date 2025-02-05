@@ -13,8 +13,8 @@
 ---
 
 #### 🚀 **About Me**
-- 💻 Data Manager with 5+ years experience in Clinical and non-clinical studies
-- 🧭 Results-driven and detail oriented with a with a will-to-learn attitude
+- 💻 Data Manager with **5+ years experience in Clinical and non-clinical studies**.
+- 🧭 Results-driven and detail oriented with a will-to-learn attitude
 - 🏥 Passionate about **transforming clinical data into actionable insights**.  
 - 📊 Experienced in **data visualization, wrangling, and R Shiny dashboards**.  
 - ⚡ Skilled in **Rave, Medrio, Veeva CDB for clinical data management**.  
