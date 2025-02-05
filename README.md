@@ -1,20 +1,14 @@
-<h5 align="center">👋 Hi, I'm Jasper!</h5>
+<h5>👋 Hi, I'm Jasper!</h5>
 
-<p align="center">
-  💻 Clinical Data Manager | Rave, Medrio, Veeva CDB 
-  <br>
-  🖥️ Programming | R, SQL, CQL, Python, SAS, STATA  
-  <br>
-  📊 Data Visualization | RShiny, Excel, Power BI
-  <br>
-  🔬 ETL and Warehousing | Apache Airflow, AWS 
+<p>
+  Welcome to my GitHub profile.
 </p>
 
 ---
 
 #### 🚀 **About Me**
 - 💻 Data Manager with **5+ years experience in Clinical and non-clinical studies**.
-- 🧭 Results-driven and detail oriented with a will-to-learn attitude
+- 🧭 Results-driven and detail oriented with a willing-to-learn attitude
 - 🏥 Passionate about **transforming clinical data into actionable insights**.  
 - 📊 Experienced in **data visualization, wrangling, and R Shiny dashboards**.  
 - ⚡ Skilled in **Rave, Medrio, Veeva CDB for clinical data management**.  
